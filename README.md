@@ -18,7 +18,7 @@ StreamLit
 
 pip install opencv-python pandas openpyxl
 
-Run the application:
+#### Run the application:
 
 python main.py
 
